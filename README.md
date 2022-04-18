@@ -1,6 +1,6 @@
 <!-- Edição de Perfil INICIO -->
 
-<p align="center">
+<p >
     <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=Francisco-William&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000" alt="Grafico de Postagens"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
     <img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/>
