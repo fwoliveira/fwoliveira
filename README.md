@@ -3,7 +3,7 @@
 <p >
     <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=Francisco-William&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000" alt="Grafico de Postagens"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
-    <img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/> <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" 
     
 <h3 align="center">ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs :</h3>
  <div align="center" >
@@ -22,9 +22,9 @@
 <h3 align="center"> ᴘʀᴏɢᴀᴍᴀs ᴅᴇ ᴜsᴏ :</h3>
 <div align="center">
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/></a>
-<a href="https://pt.wikipedia.org/wiki/Adobe_Photoshop"> <img alt="Visual Studio Code" src="https://img.icons8.com/ios/40/000000/1c9cff/adobe-photoshop--v1.png"/>   
+<a href="https://pt.wikipedia.org/wiki/Adobe_Photoshop"> <img alt="Photoshop" src="https://img.icons8.com/ios/40/000000/1c9cff/adobe-photoshop--v1.png"/>   
 <a href="https://pt.wikipedia.org/wiki/Adobe_Illustrator"> <img alt="Illustrator" src="https://img.icons8.com/ios/40/000000/fe9900/adobe-illustrator--v1.png"/></a>
-<a href="https://pt.wikipedia.org/wiki/GitHub"> <img alt="Photoshop" src="https://img.icons8.com/ios/40/000000/f05133/git.png"/></a>
+<a href="https://pt.wikipedia.org/wiki/GitHub"> <img alt="gitHub" src="https://img.icons8.com/ios/40/000000/f05133/git.png"/></a>
 </div>
  
 
