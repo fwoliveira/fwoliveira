@@ -1,9 +1,11 @@
 <!-- Edição de Perfil INICIO -->
+ <div align="center" > <h1>Francisco william </h1></div>
+
 
 <p >
-    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=Francisco-William&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000" alt="Grafico de Postagens"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000" alt="Grafico de Postagens"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=00BFFF&bg_color=00000000&text_color=00BFFF&count_private=true&icon_color=00BFFF&border_color=00000000&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
-    <img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/> <a href="https://discord.gg/exX6rNenXq">
+<div align="center"><img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/> <a href="https://discord.gg/exX6rNenXq" ></div>
     
 <h3 align="center">ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏs :</h3>
  <div align="center" >
