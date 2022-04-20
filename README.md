@@ -1,18 +1,8 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Francisco William </i></a> </h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
-  </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+  <div align="center">
+  <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=00000000" alt="Grafico de Postagens"/>
+    <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=00000000&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
 
 <div align="center"><img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/> <a href="https://discord.gg/exX6rNenXq" ></div>
     
