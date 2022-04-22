@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o Francisco William </h1>
   <div align="center">
-  <img width="50%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=00000000" alt="Grafico de Postagens"/>
-    <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=696969&bg_color=00000000&text_color=696969&count_private=true&icon_color=00FFFF&border_color=00000000&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
+  <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=DC143C" alt="Grafico de Postagens"/>
+    <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=696969&bg_color=00000000&text_color=696969&count_private=true&icon_color=00FFFF&border_color=DC143C&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
      <br/>
      <br/>
 
