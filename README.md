@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/francisco-william-oliveira-2253a7238/"><i>Francisco William </i></a> </h1>
   <div align="center">
-  <img width="50%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=00000000" alt="Grafico de Postagens"/>
-    <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=00000000&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
+  <img width="50%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=00000000" alt="Grafico de Postagens"/>
+    <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=696969&bg_color=00000000&text_color=696969&count_private=true&icon_color=00FFFF&border_color=00000000&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
      <br/>
      <br/>
 
@@ -28,9 +28,11 @@
 <a href="https://www.instagram.com/william_llima0/"> <img alt="Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/francisco-william-oliveira-2253a7238/"> <img alt="Discord" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:fwoliveira044@gmail.com"> <img alt="Discord" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   
+     <a href="https://twitter.com/fwoliveiraa"> <img alt="Discord" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
- </div>   
+ </div>  
+   
+ 
 <!-- Edição de Perfil FIM -->
 
 
