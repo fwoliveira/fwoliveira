@@ -16,7 +16,7 @@
     <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" src="https://img.icons8.com/ios/40/000000/F1C40F/javascript--v1.png"/></a>
     <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"> <img alt="ReactJs" src="https://img.icons8.com/ios/40/000000/00D7FE/react-native--v1.png"/></a>
     <a href="https://pt.wikipedia.org/wiki/Node.js"> <img alt="NodeJs" src="https://img.icons8.com/small/40/000000/539e43/nodejs.png"/></a>
-    <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/></a>
+    <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.icons8.com/carbon-copy/40/000000/007bcd/visual-studio-code-2019.png"/></a>
     <a href="https://pt.wikipedia.org/wiki/Adobe_Photoshop"> <img alt="Photoshop" src="https://img.icons8.com/ios/40/000000/1c9cff/adobe-photoshop--v1.png"/>   
     <a href="https://pt.wikipedia.org/wiki/Adobe_Illustrator"> <img alt="Illustrator" src="https://img.icons8.com/ios/40/000000/fe9900/adobe-illustrator--v1.png"/></a>
     <a href="https://pt.wikipedia.org/wiki/GitHub"> <img alt="gitHub" src="https://img.icons8.com/ios/40/000000/f05133/git.png"/></a>
