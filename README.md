@@ -21,7 +21,7 @@
  <div align="center">   
 <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/william_llima0/"> <img alt="Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://mail.google.com/mail/u/0/fwoliveira044@gmail.com"> <img alt="Discord" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    
 
