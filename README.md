@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Francisco William </i></a> </h1>
   <div align="center">
-  <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=00000000" alt="Grafico de Postagens"/>
+  <img width="45%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=00000000" alt="Grafico de Postagens"/>
     <img width="40%"  valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=ffffff&bg_color=00000000&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=00000000&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
 
 <div align="center"><img src="https://discord.c99.nl/widget/theme-4/908158924258152478.png"/> <a href="https://discord.gg/exX6rNenXq" ></div>
