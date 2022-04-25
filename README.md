@@ -20,6 +20,10 @@
     <a href="https://pt.wikipedia.org/wiki/Adobe_Photoshop"> <img alt="Photoshop" src="https://img.icons8.com/ios/40/000000/1c9cff/adobe-photoshop--v1.png"/>   
     <a href="https://pt.wikipedia.org/wiki/Adobe_Illustrator"> <img alt="Illustrator" src="https://img.icons8.com/ios/40/000000/fe9900/adobe-illustrator--v1.png"/></a>
     <a href="https://pt.wikipedia.org/wiki/GitHub"> <img alt="gitHub" src="https://img.icons8.com/ios/40/000000/f05133/git.png"/></a>
+     <a href="https://pt.wikipedia.org/wiki/GitHub"> <img alt="gitHub" src="https://img.icons8.com/ios/40/000000/00618a/mysql.png"/></a>  
+      
+      
+      
  </div> 
    <br/>
     <br/>
