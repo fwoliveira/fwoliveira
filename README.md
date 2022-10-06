@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o Francisco William </h1>
   <div align="center">
-  <img width="45%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=DC143C" alt="Grafico de Postagens"/>
+  <img width="55%"  valign="middle" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=DC143C" alt="Grafico de Postagens"/>
       <img height="180em" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&langs_count=7&&show_icons=true&custom_title=&title_color=DC143C&bg_color=00000000&text_color=696969&count_private=true&icon_color=DC143C&border_color=DC143C"/>
      <br/>
      <br/>
